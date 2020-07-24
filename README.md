@@ -31,7 +31,7 @@
 
 ## Contributor List
 
-EMPTY
+- [frederick-vs-ja](https://github.com/frederick-vs-ja)
 
 ## Other
 
